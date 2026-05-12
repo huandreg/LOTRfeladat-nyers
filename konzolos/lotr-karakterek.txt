@@ -1,0 +1,15 @@
+Név;Faj;Osztály;Erő;Gyorsaság;Ügyesség;Állóképesség;Intelligencia;Leírás
+Aragorn;Dúnadán;Vándor;15;16;16;15;14;Ügyeletes baszogány, kardforgató ork-tömeggyilkos, ja, és a fél emberiség királya.
+Boromir;Gondori ember;Harcos;16;15;15;15;13;Harcos kapitány, gyűrű-bolond, később Lurtz nyíltartónak használja.
+Gandalf;Maia;Mágus;13;13;14;14;18;Mágiahasználó bölcs, félúton egy Isten és egy csöves között.
+Legolas;Bakacsinerdei tünde;íjász;14;17;17;14;14;Géppuskakezű íjász, ha kapott volna egy géppuskát, egy könyv alatt vége lett volna a sztorinak.
+Gimli;Erebori törp;Harcos;17;14;15;16;13;Mogorva törp, szabadidejében orkokat szeletel, kapzsi bányász, gyengéje a mithrill.
+Trufa;Kici hobbitocka;Élő pajzs;12;14;14;12;13;Hobbit létére egész értelmes, noha a sztorit nem ő mozdítja előre általában.
+Pippin;Kici hobbitocka;Élő pajzs;12;14;14;12;12;Vicces hobbitocska, leginkább a zabálásban tűnik ki.
+Frodó;Kici hobbitocka;Gyűrűhordozó;12;14;14;11;13;A leginkompetensebb karakter, tényleg csak arra jó hogy cipeljen valamit.
+Samu;Kici hobbitocka;Gyűrűhordozó-testőr;12;14;14;13;12;A Legbaszogányabb hobbit, még az orkokat is gyilkolássza, lelkes hobbikertész.
+Gollam;Coffadt hobbitocka;Ügyeletes troll;12;14;14;13;13;Rommá csoffadt hobbit, a nemesfémek megszállotja, kedvence a "Drágaszág".
+Lurtz;Uruk-hai;Ork kapitány;17;15;15;16;12;Az Uruk-hai orkok, első számú főnöke, Aragorn kicsit levágta a fejét, de előtte még megszórta Boromirt.
+Ugluk;Uruk-hai;Ork kapitány;16;14;15;16;13;Rohan mezején szaladgáló Uruk-hai vezér, Trufát és Pippint cipeli mint két csomagot, végül fűbe harap ő is.
+Grishnákh;Mordori ork;Ork felderítő;15;14;14;14;12;Mordori ambíciózus ork,a Gyűrűt is lenyúlná a társai elől, Pippint meg megölné, végül Szilszakáll tapossa meg.
+Gorbag;Mordori ork;Ork tiszt;15;14;14;14;14;Minas Morgul járőrparancsnoka, ork létére egész okos, Samu öli meg.

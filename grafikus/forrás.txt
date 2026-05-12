@@ -1,0 +1,9 @@
+        
+
+private readonly string connectionString = "datasource=127.0.0.1;port=3306;username=root;password='';database=lotrkar";
+
+MySqlConnection conn;
+
+conn = new(connectionString);
+
+conn.Open();
