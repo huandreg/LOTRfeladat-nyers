@@ -1,97 +1,97 @@
 [
     {
-        "pic": "/img/aragorn.png",
+        "pic": "/img/aragorn.jpg",
         "name": "Aragorn",
         "race": "Dúnedain",
         "char_class": "Strider",
         "description": "Ügyeletes baszogány, kardforgató ork-tömeggyilkos, ja, és a fél emberiség királya."
     },
     {
-        "pic": "/img/boromir.png",
+        "pic": "/img/boromir.jpg",
         "name": "Boromir",
         "race": "Human from Gondor",
         "char_class": "Warrior",
         "description": "Harcos kapitány, gyűrű-bolond, később Lurtz nyíltartónak használja."
     },
     {
-        "pic": "/img/gandalf.png",
+        "pic": "/img/gandalf.jpg",
         "name": "Gandalf",
         "race": "Maia",
         "char_class": "Wizard",
         "description": "Mágiahasználó bölcs, félúton egy Isten és egy csöves között."
     },
     {
-        "pic": "/img/legolas.png",
+        "pic": "/img/legolas.jpg",
         "name": "Legolas",
         "race": "Mirkwood Elf",
         "char_class": "Ranger",
         "description": "Géppuskakezű íjász, ha kapott volna egy igazi géppuskát, egy könyv alatt vége lett volna a sztorinak."
     },
     {
-        "pic": "/img/gimli.png",
+        "pic": "/img/gimli.jpg",
         "name": "Gimli",
         "race": "Ereborean Dwarf",
         "char_class": "Warrior",
         "description": "Mogorva törp, szabadidejében orkokat szeletel, kapzsi bányász, gyengéje a mithrill."
     },
     {
-        "pic": "/img/merry.png",
+        "pic": "/img/merry.jpg",
         "name": "Trufa",
         "race": "Hobbit",
         "char_class": "Meat shield",
         "description": "Hobbit létére egész értelmes, noha a sztorit nem ő mozdítja előre általában."
     },
     {
-        "pic": "/img/pippin.png",
+        "pic": "/img/pippin.jpg",
         "name": "Pippin",
         "race": "Hobbit",
         "char_class": "Meat shield",
         "description": "Vicces hobbitocska, leginkább a zabálásban tűnik ki."
     },
     {
-        "pic": "/img/frodo.png",
+        "pic": "/img/frodo.jpg",
         "name": "Frodo",
         "race": "Hobbit",
         "char_class": "Ring Bearer",
         "description": "A leginkompetensebb karakter, tényleg csak arra jó hogy cipeljen valamit."
     },
     {
-        "pic": "/img/sam.png",
+        "pic": "/img/sam.jpg",
         "name": "Sam",
         "race": "Hobbit",
         "char_class": "Ring Bearer bodyguard",
         "description": "A Legbaszogányabb hobbit, még az orkokat is gyilkolássza, lelkes hobbikertész."
     },
     {
-        "pic": "/img/gollum.png",
+        "pic": "/img/gollum.jpg",
         "name": "Gollum",
         "race": "Cursed Hobbit",
         "char_class": "Hobbit abomination",
         "description": "Rommá csoffadt hobbit, a nemesfémek megszállotja, kedvence a 'Drágaszág.'"
     },
     {
-        "pic": "/img/lurtz.png",
+        "pic": "/img/lurtz.jpg",
         "name": "Lurtz",
         "race": "Uruk-hai",
         "char_class": "Uruk-hai captain",
         "description": "Az Uruk-hai orkok első számú főnöke, Aragorn kicsit levágta a fejét, de előtte még megszórta Boromirt."
     },
     {
-        "pic": "/img/ugluk.png",
+        "pic": "/img/ugluk.jpg",
         "name": "Ugluk",
         "race": "Uruk-hai",
         "char_class": "Uruk-hai captain",
         "description": "Rohan mezején szaladgáló Uruk-hai vezér, Trufát és Pippint cipeli mint két csomagot, végül fűbe harap ő is."
     },
     {
-        "pic": "/img/grishnak.png",
+        "pic": "/img/grishnak.jpg",
         "name": "Grishnakh",
         "race": "Orc from Mordor",
         "char_class": "Orc scout",
         "description": "Mordori ambíciózus ork, a Gyűrűt is lenyúlná a társai elől, Pippint meg megölné, végül Szilszakáll tapossa meg."
     },
     {
-        "pic": "/img/gorbag.png",
+        "pic": "/img/gorbag.jpg",
         "name": "Gorbag",
         "race": "Orc from Mordor",
         "char_class": "Orc officer",
